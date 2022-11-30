@@ -163,6 +163,21 @@ oferecida no segundo semestre de 2022, na Unicamp, sob supervisão da Profa. Dra
 
 >![EA075_E2-COMUNICAO_BT drawio](https://user-images.githubusercontent.com/91965153/199145020-3b9287cf-9d2b-4175-86d6-4dc3bbd4018c.png)
 
+### Lista de componentes
+>
+> - 1 Microcontrolador ATMEGA328P;
+> - 1 Cristal Oscilador 16MHz; 
+> - 2 capacitores 22pF;
+> - 1 Módulo HC-05 (Módulo Bluetooth);
+> - 1 Bateria 9V;
+> - 1 Regulador de tensão 7805 para 5V;
+> - 2 resistores 10k ohms;
+> - 1 conector fêmea 2 vias;
+> - 1 botão para reset;
+> - 1 Conector USB Femea para receber programação;
+> - 1 placa PCB 20x50 mm;
+
+
 ## Referências
 > https://www.electronica-pt.com/radio-frequencia
 
